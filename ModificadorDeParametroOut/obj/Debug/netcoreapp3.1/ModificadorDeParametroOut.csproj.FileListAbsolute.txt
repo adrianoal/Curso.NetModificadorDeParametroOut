@@ -1,0 +1,13 @@
+C:\Users\aalima5\Desktop\Code C#\ModificadorDeParametroOut\ModificadorDeParametroOut\bin\Debug\netcoreapp3.1\ModificadorDeParametroOut.exe
+C:\Users\aalima5\Desktop\Code C#\ModificadorDeParametroOut\ModificadorDeParametroOut\bin\Debug\netcoreapp3.1\ModificadorDeParametroOut.deps.json
+C:\Users\aalima5\Desktop\Code C#\ModificadorDeParametroOut\ModificadorDeParametroOut\bin\Debug\netcoreapp3.1\ModificadorDeParametroOut.runtimeconfig.json
+C:\Users\aalima5\Desktop\Code C#\ModificadorDeParametroOut\ModificadorDeParametroOut\bin\Debug\netcoreapp3.1\ModificadorDeParametroOut.runtimeconfig.dev.json
+C:\Users\aalima5\Desktop\Code C#\ModificadorDeParametroOut\ModificadorDeParametroOut\bin\Debug\netcoreapp3.1\ModificadorDeParametroOut.dll
+C:\Users\aalima5\Desktop\Code C#\ModificadorDeParametroOut\ModificadorDeParametroOut\bin\Debug\netcoreapp3.1\ModificadorDeParametroOut.pdb
+C:\Users\aalima5\Desktop\Code C#\ModificadorDeParametroOut\ModificadorDeParametroOut\obj\Debug\netcoreapp3.1\ModificadorDeParametroOut.csprojAssemblyReference.cache
+C:\Users\aalima5\Desktop\Code C#\ModificadorDeParametroOut\ModificadorDeParametroOut\obj\Debug\netcoreapp3.1\ModificadorDeParametroOut.csproj.CoreCompileInputs.cache
+C:\Users\aalima5\Desktop\Code C#\ModificadorDeParametroOut\ModificadorDeParametroOut\obj\Debug\netcoreapp3.1\ModificadorDeParametroOut.AssemblyInfoInputs.cache
+C:\Users\aalima5\Desktop\Code C#\ModificadorDeParametroOut\ModificadorDeParametroOut\obj\Debug\netcoreapp3.1\ModificadorDeParametroOut.AssemblyInfo.cs
+C:\Users\aalima5\Desktop\Code C#\ModificadorDeParametroOut\ModificadorDeParametroOut\obj\Debug\netcoreapp3.1\ModificadorDeParametroOut.dll
+C:\Users\aalima5\Desktop\Code C#\ModificadorDeParametroOut\ModificadorDeParametroOut\obj\Debug\netcoreapp3.1\ModificadorDeParametroOut.pdb
+C:\Users\aalima5\Desktop\Code C#\ModificadorDeParametroOut\ModificadorDeParametroOut\obj\Debug\netcoreapp3.1\ModificadorDeParametroOut.genruntimeconfig.cache
